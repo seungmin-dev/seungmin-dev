@@ -1,3 +1,3 @@
 ### Hi there, I'm ✨seungmin✨  
 
- 🌱 I’m currently learning `react.js` `node.js`  
+ 🌱 I’m currently learning `reactNative` `react.js` `node.js`  
