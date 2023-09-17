@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Lee%20seungmin&type=waving&color=auto&height=270&section=header&%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?text=ssummer&type=waving&color=auto&height=270&section=header&%20render&fontSize=60)
 <br/>
 <h2 align="center">✨ Tech Stack ✨</h2>
 <div align="center">
